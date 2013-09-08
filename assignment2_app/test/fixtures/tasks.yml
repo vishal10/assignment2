@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  description: MyString
+  compensation: 1
+  contactInfo: MyString
+
+two:
+  description: MyString
+  compensation: 1
+  contactInfo: MyString
